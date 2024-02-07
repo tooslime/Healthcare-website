@@ -1,0 +1,235 @@
+body{
+    width: 100%;
+    background-color: rgb(6, 16, 34);
+    height: 100%;
+}
+
+table, th{
+    margin-left: 450px;
+}
+th a{
+    text-decoration: none; 
+    color: white;
+    margin-left: 50px;
+}
+.HealthPro{
+    margin-top: -50px;
+    margin-left: 100px;
+    color: white;
+}
+.Consultation a{
+    text-decoration: none;
+    color: rgb(63, 234, 63);
+    border: 2px solid rgb(9, 176, 9);
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 950px;
+      
+}
+ h3{
+    margin-top: -80px;
+}  
+.Revolutionalizing{
+    color: rgb(63, 234, 63);
+    font-size: 55px;
+    margin-left: 100px;
+    
+}
+.img_1{
+    width: 250px;
+    height: 200px;
+    border: 2px solid rgb(63, 234, 63);
+    border-radius:20px;
+    margin-left: 950px;
+    margin-top: -600px;
+    margin-bottom: 100px;
+}
+.img_2{
+    width: 250px;
+    height: 200px;
+    border: 2px solid rgb(63, 234, 63);
+    border-radius:20px;
+    margin-left: 680px;
+    margin-top: -600px;
+    margin-bottom: 70px;
+}
+
+.img_3{
+    width: 250px;
+    height: 200px;
+    border: 2px solid rgb(63, 234, 63);
+    border-radius:20px;
+    margin-left: 950px;
+    margin-top: -110px;
+    margin-bottom: 100px;
+}
+.img_4{
+    width: 250px;
+    height: 200px;
+    border: 2px solid rgb(63, 234, 63);
+    border-radius:20px;
+    margin-left: 680px;
+    margin-top: -600px;
+    margin-bottom: 70px;
+}
+.img_5{
+    width: 250px;
+    height: 200px;
+    border: 2px solid rgb(63, 234, 63);
+    border-radius:20px;
+    margin-left: 950px;
+    margin-top: -110px;
+    margin-bottom: 100px;
+}
+.img_6{
+    width: 250px;
+    height: 200px;
+    border: 2px solid rgb(63, 234, 63);
+    border-radius:20px;
+    margin-left: 680px;
+    margin-top: -600px;
+    margin-bottom: 70px;
+}
+.Providing {
+    float: left;
+    margin-top: -500px;
+    margin-left: 100px;
+   font-size: 28px;
+}
+.Providing b{
+    color: rgb(63, 234, 63);;
+}
+.Medication a{
+    text-decoration: none;
+    color: rgb(63, 234, 63);
+    font-size: 20px;
+    border-radius: 5px;
+}
+.Medication{
+    margin-top: -400px;
+    height: 30px;
+    width: 350px;
+    border: 2px solid rgb(63, 234, 63);
+    text-align: center;      
+    padding-top:10px;
+    margin-left: 100px;
+}
+.Meet{
+    margin-left: 100px;
+    font-size: 50px;
+    color: white;
+}
+.skilled{
+    font-size: 22px;
+    margin-left: 100px;
+    color: white;
+}
+
+.h1_img {
+    width: 240px;
+    height: 300px;
+    border: 2px solid rgb(63, 234, 63);
+    border-radius:20px;
+    text-align: center;
+    float: left;
+    margin-left: 50px;
+}
+.h1_img img{
+    width: 238px;
+    border: 2px solid rgb(63, 234, 63);
+    border-radius:20px 20px 0 0;
+}
+.Join{
+    font-size: 65px;
+    color: white;
+    text-align: center;
+}
+.Sign_Up{
+    height: 30px;
+    width: 120px;
+    border: 2px solid rgb(63, 234, 63);
+    text-align: center;
+    padding-top:15px;
+    margin-left: 650px;
+    margin-top: -80px;
+    
+}
+.Sign_Up a{
+    color:rgb(63, 234, 63); 
+    text-decoration: none;
+    text-align: center;
+}
+.Superior_Medicine{
+    background-color: rgb(174, 163, 163); 
+    height: 500px;
+}
+.Superior_Medicine p{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 70px;
+    opacity: 0.8;
+    margin-left: 40px;
+  
+}
+.Superior_Medicine .products{
+    text-align: center;
+    font-size: 18px;
+    opacity: 0.5;
+    margin-top: -100px;
+    margin-left: 30px;    
+}
+h3 .Telemedicine{
+    margin-top: -40px;
+    float: left; 
+    font-size: 30px;
+    margin-left: 247px;
+   
+}
+.h_3{
+    margin-top: -270px;
+    margin-left: -80px;
+    
+}
+.h_4 .healthcare{
+    float: left;
+    opacity: 0.6;
+    margin-left: 200px;
+    margin-top: -30px;
+}
+.h_three{
+    margin-top: -270px;
+    margin-left: -80px;
+    text-align: center;
+}
+.h_three .Telemedicine{
+    margin-top: 20px;
+}
+footer{
+    /* background-color:  rgb(80, 138, 239); */
+    height: 300px;
+    color: white;
+}
+ul li, h2{
+    list-style: none;
+    float: left;
+    /* margin-left: 100px; */
+}
+/* ul li, p{
+    list-style: none;
+    margin-left: 110px;
+    margin-top: -5px;
+} */
+ul li, p a{
+    text-decoration: none;
+    color: white;
+}
+/* .unord_li li, p{
+    list-style: none;
+    float: left;
+    margin-left: 120px;
+    margin-top: -12px;
+}
+.unord_li li, p a{
+    text-decoration: none;
+    color: white;
+} */
